@@ -5,6 +5,7 @@ PyBer is a ride sharing app that operated around different cities. On this analy
  1) **Total Rides** [See result:](Resources/Fig6.png)
  
  The results provides us with more information about where does our customers use our the app the most. **More than half of our user are located on urban city with 68,4%**, followed by suburban cities with 26.3% and the type of city where is used the less is rural with 5.3%. 
+ 
  2) **Total Drivers** [See result:](Resources/Fig7.png)
  
  This result has a direct relationship with the total rides because drivers need to be located on those cities where the demand is. **Urban cities is where most of the driver are located with 80.9%**, followed by Suburban cities with 16.5%, last the rural cities.
