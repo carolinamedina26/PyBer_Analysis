@@ -25,7 +25,7 @@ PyBer is a ride sharing app that operated around different cities. On this analy
  
  # Recommendation 
  
-The business recommendation will be to focus on the suburban areas since represent 30.5% of the income of the company and is achieved by having only 16.5% of the drivers. This area has an incredible potential because there is a demand for the service (Total rides 26.3%) and the pricing per ride in this area is higher (between $30 to $35) which translate to larger profits than the urban areas where there is a higher demand but lower price per ride.
+**The business recommendation will be to focus on the suburban areas** since represent 30.5% of the income of the company and is achieved by having only 16.5% of the drivers. This area has an incredible potential because there is a demand for the service (Total rides 26.3%) and the pricing per ride in this area is higher (between $30 to $35) which translate to larger profits than the urban areas where there is a higher demand but lower price per ride.
  
   
 
